@@ -1,0 +1,12 @@
+com\example\demo\DemoApplication.class
+com\example\demo\DTO\MotivoRechazo.class
+com\example\demo\authservice\TokenService.class
+com\example\demo\DTO\RechazosResp.class
+com\example\demo\controller\inicioController.class
+com\example\demo\DTO\TokenResp.class
+com\example\demo\config\rechazadasPar.class
+com\example\demo\DTO\Costo.class
+com\example\demo\authservice\inicioService.class
+com\example\demo\DTO\Productor.class
+com\example\demo\DTO\RechazoData.class
+com\example\demo\authservice\RechazadasService.class
